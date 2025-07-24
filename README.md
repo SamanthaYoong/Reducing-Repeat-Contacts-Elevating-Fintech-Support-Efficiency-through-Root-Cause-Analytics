@@ -21,9 +21,9 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ## 📈 Problem Statement
 
-- 📈 **Repeat Contacts Increased**: 22% rise within 10 days after ticket resolution  
-- 😞 **CSAT Dropped**: From 4.3 → 3.6 during the same period  
-- 🔁 **Top Repeat Categories**:
+- ✅ **Repeat Contacts Increased**: 22% rise within 10 days after ticket resolution  
+- ✅ **CSAT Dropped**: From 4.3 → 3.6 during the same period  
+- ✅ **Top Repeat Categories**:
   - Wallet Transactions: 41%
   - KYC Verification: 31%
 
@@ -49,10 +49,10 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 | Action | Purpose | Estimated Impact |
 |-------|--------|------------------|
-| 🔔 Auto-notification for wallet refunds | Reduce uncertainty & loops | ↓ Wallet tickets by ~35% |
-| 👤 KYC Real-time Tracker UI | Increase transparency | ↑ FTR by 20% |
-| 🧾 Unified Agent Scripts | Ensure policy consistency | ↓ Repeat contacts by 25% |
-| 📉 CS Dashboard with repeat filters | Monitor & prevent recurrences | + Insight agility |
+| ✅ Auto-notification for wallet refunds | Reduce uncertainty & loops | ↓ Wallet tickets by ~35% |
+| ✅ KYC Real-time Tracker UI | Increase transparency | ↑ FTR by 20% |
+| ✅ Unified Agent Scripts | Ensure policy consistency | ↓ Repeat contacts by 25% |
+| ✅ CS Dashboard with repeat filters | Monitor & prevent recurrences | + Insight agility |
 
 ---
 
