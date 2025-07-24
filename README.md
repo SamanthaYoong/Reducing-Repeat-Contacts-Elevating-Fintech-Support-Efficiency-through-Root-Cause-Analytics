@@ -14,7 +14,7 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 **Tech Stack**  
 - `SQL` – Data extraction & anomaly detection  
 - `Tableau` – Funnel & metric visualization  
-- `Python (Pandas)` – Trend analysis  
+- `Python (Pandas)` – Data Generation  
 - `Excel` – Efficiency & churn modeling  
 
 ---
