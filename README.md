@@ -69,11 +69,10 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ## 📈 OKX Role Fit
 
-✅ **Anomaly Detection**: Identified spikes in CS volume  
-✅ **Root Cause Analysis**: Mapped behavior to product changes  
-✅ **Actionable Insights**: Delivered operational & customer-facing recommendations  
-✅ **Cross-Functional Thinking**: Addressed support, product, and process layers
-
+- ✅ Worked with CRM-like ticket structures for issue categorisation, resolution tracking, and escalation mapping (Zendesk equivalent)
+- ✅ Analysed KYC and wallet transaction pain points, simulating payment issue flows tied to risk operations
+- ✅ Applied Lean-like continuous improvement logic to reduce repeat contacts and improve CSAT/FTR through data-backed interventions
+  
 ---
 
 ## 📈 Tools & Skills Applied
