@@ -1,4 +1,4 @@
-# 📊 Case Study: Reducing Repeat Contacts in Fintech Support Operations
+# 📈 Case Study: Reducing Repeat Contacts in Fintech Support Operations
 
 **Role Targeted**: Data Analyst – Customer Service Operations  
 **Company**: OKX (Fintech & Crypto Exchange Platform)  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🧠 Background
+## 📈 Background
 
 In a simulated high-volume fintech support environment inspired by OKX, I analyzed over **35,000+ anonymized support tickets** across 3 months.  
 The objective: **Identify and reduce repeat contacts**, improve **first-time resolution (FTR)**, and enhance **customer experience**.
@@ -19,7 +19,7 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ---
 
-## 🔎 Problem Statement
+## 📈 Problem Statement
 
 - 📈 **Repeat Contacts Increased**: 22% rise within 10 days after ticket resolution  
 - 😞 **CSAT Dropped**: From 4.3 → 3.6 during the same period  
@@ -29,7 +29,7 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ---
 
-## 📊 Key Findings
+## 📈 Key Findings
 
 ### 1. Spike Analysis (SQL)
 - Detected post-release spike in wallet-related contacts due to **delayed refund notifications**
@@ -45,7 +45,7 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ---
 
-## 🔧 Recommendations
+## 📈 Recommendations
 
 | Action | Purpose | Estimated Impact |
 |-------|--------|------------------|
@@ -67,7 +67,7 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ---
 
-## 🤝 OKX Role Fit
+## 📈 OKX Role Fit
 
 ✅ **Anomaly Detection**: Identified spikes in CS volume  
 ✅ **Root Cause Analysis**: Mapped behavior to product changes  
@@ -76,7 +76,7 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ---
 
-## 🚀 Tools & Skills Applied
+## 📈 Tools & Skills Applied
 
 - SQL (joins, window functions, anomaly queries)  
 - Tableau (funnels, dashboards, segmentation)  
@@ -86,7 +86,7 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ---
 
-## 💡 Notes
+## 📈 Notes
 
 This case study demonstrates my ability to:
 - Dive deep into support metrics and detect inefficiencies
@@ -95,13 +95,13 @@ This case study demonstrates my ability to:
 
 ---
 
-## 📫 Contact
+## 📈 Contact
 
 Feel free to connect if you're working on support analytics, fintech operations, or customer insight projects.
 
 **Samantha Yoong**  
 Email: samantha.analytics@pm.me  
-[LinkedIn](https://linkedin.com/in/samanthayoong) | [Tableau Public](https://public.tableau.com/app/profile/samantha.yoong)
+[LinkedIn](https://www.linkedin.com/in/samantha-yoong-8551b4226/) | [Tableau Public](https://public.tableau.com/app/profile/samantha.yoong/vizzes)
 
 
 
