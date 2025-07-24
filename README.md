@@ -99,7 +99,7 @@ This case study demonstrates my ability to:
 Feel free to connect if you're working on support analytics, fintech operations, or customer insight projects.
 
 **Samantha Yoong**  
-Email: samantha.analytics@pm.me  
+Email: samanthayoong2000@gmail.com 
 [LinkedIn](https://www.linkedin.com/in/samantha-yoong-8551b4226/) | [Tableau Public](https://public.tableau.com/app/profile/samantha.yoong/vizzes)
 
 
