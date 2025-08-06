@@ -15,7 +15,13 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 - `SQL` – Data extraction & anomaly detection  
 - `Tableau` – Funnel & metric visualization  
 - `Python (Pandas)` – Data Generation  
-- `Excel` – Efficiency & churn modeling  
+- `Excel` – Efficiency & churn modeling
+
+🔗 [View the Interactive Tableau Dashboard](https://public.tableau.com/app/profile/samantha.yoong/viz/ReducingRepeatContactsinFintechSupportOperations/ExecutiveOverview)
+
+## 📊 Dashboard Preview
+
+![Dashboard Preview](Executive-Overview.png)
 
 ---
 
