@@ -21,7 +21,7 @@ The objective: **Identify and reduce repeat contacts**, improve **first-time res
 
 ## 📊 Dashboard Preview
 
-![Dashboard Preview](Executive-Overview.png)
+![Dashboard Preview](Executive-Overview-(4).png)
 
 ---
 
